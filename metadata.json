@@ -1,0 +1,6 @@
+{
+  "name": "Birthday Portrait Greeting Card",
+  "description": "Cinematic interactive greeting card: blow out the candle, make a wish, and watch a painted portrait come to life on canvas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
